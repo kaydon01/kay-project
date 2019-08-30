@@ -1,2 +1,2 @@
-#my twitter post link
-##  https://twitter.com/prestegestore/status/1164971730684788738
+#my lucid post link
+##  https://lucid.blog/kaydon01/post/css-b2f
